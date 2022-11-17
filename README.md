@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Tony Fu, an undergraduate student studying bioengineering at the University of Washington
-- 👀 I’m interested in computational neuroscience and embedded computer vision.
+- 👋 Hi, I’m Tony Fu, an Master's student studying Bioengineering at the University of Washington.
+- 👈 That was me enjoying my meal at Tacos Chukis.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tony-fu-3721831a3/)
 
 <!---
