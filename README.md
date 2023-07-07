@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Tony Fu, a Master's student studying Bioengineering at the University of Washington.
 - 👀 I am also a visual neuroscience researcher at Dr. Bair's Lab.
-- 👈 That was me enjoying my meal at Tacos Chukis.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tony-fu-3721831a3/)
 
 <!---
