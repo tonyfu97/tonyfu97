@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Tony Fu, a Master's student studying Bioengineering at the University of Washington.
-- 👀 I am also a visual neuroscience researcher at Dr. Bair's Lab.
+- 👋 Hi, I’m Tony Fu, a research assistant at UW Bair Lab (computational visual neuroscience).
+- 👀 I investigate how convolutional neural networks "see" the world.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tony-fu-3721831a3/)
 
 <!---
