@@ -2,7 +2,33 @@
 - 👀 I investigate how convolutional neural networks "see" the world.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tony-fu-3721831a3/)
 
-<!---
-tonyfu97/tonyfu97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+## Shared Notes
+These materials come from my independent studies outside of my classes at UW. Given the less structured nature of out-of-class learning, I've made it a habit to take notes to ensure that I grasp the concepts and have a reference for future review.
+
+### C++ Programming
+* [CPROGRM 520](https://tonyfu97.github.io/CPROGRM520-Notes/): *Intermediate C++ Programming*. Second course in the [C++ Programming Professional Certificate Program from the University of Washington](https://www.pce.uw.edu/certificates/c-plus-plus-programming).
+* [CPROGRM 530](https://tonyfu97.github.io/CPROGRM530-Notes/): *Advanced C++ Programming*. Third course in the [C++ Programming Professional Certificate Program from the University of Washington](https://www.pce.uw.edu/certificates/c-plus-plus-programming).
+
+
+### Machine Learning
+* [MLEARN 510](https://tonyfu97.github.io/MLEARN510-Notes/): *Introduction to Machine Learning*. First course in the [Machine Learning Professional Certificate Program from the University of Washington](https://www.pce.uw.edu/certificates/machine-learning).
+* [MLEARN 520](https://tonyfu97.github.io/MLEARN520-Notes/): *Advanced Machine Learning*. Second course in the [Machine Learning Professional Certificate Program from the University of Washington](https://www.pce.uw.edu/certificates/machine-learning).
+
+
+### Signal Processing
+* [Signal Processing on ARM Cortex]: Coming soon.
+
+
+### Embedded Systems
+* [Embedded C Programming](https://tonyfu97.github.io/Embedded-C-Interview-Prep/): Interview Preparation for Embedded C.
+
+
+### Computer Vision
+* [Digital Image Processing with CImg and C++](https://tonyfu97.github.io/Digital-Image-Processing/): 40+ image processing algorithms with C++ and CImg Library.
+* [OpenCV + Qt Apps](https://github.com/tonyfu97/OpenCV-Qt-App): Implementing 7 computer vision apps.
+* [VisualAlgo Library](https://tonyfu97.github.io/VisualAlgo/): Computer vision algorithms and visual neuroscience models (in progress).
+
+
+### Computational Neuroscience
+* [LearnCompNeuro](https://github.com/tonyfu97/LearnCompNeuro): Mentor materials (study track and research tips). Currently in progress.
