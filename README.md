@@ -23,7 +23,8 @@ These materials come from my independent studies outside of my classes at UW. Gi
 
 ### Embedded Systems
 * [Embedded C Programming](https://tonyfu97.github.io/Embedded-C-Interview-Prep/): Interview Preparation for Embedded C.
-* [ARM Cortex-M4 Programming](https://tonyfu97.github.io/ARM-Cortex-M4/): Embedded Systems Programming on ARM Cortex-M4 Processor.
+* [ARM Cortex-M4 Programming](https://tonyfu97.github.io/ARM-Cortex-M4/): Inline Assembly, Memory Model, Exception Model, Task Scheduling, Bare-Metal Development, etc.
+* [Peripheral Driver Development](https://tonyfu97.github.io/MCU1/): GPIO, I2C, SPI, USART, etc. with STM32F4.
 
 
 ### Computer Vision
