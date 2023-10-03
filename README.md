@@ -4,7 +4,7 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tony-fu-3721831a3/)
 
 
-## Shared Notes
+## My Notes
 These materials come from my independent studies outside of my classes at UW. Given the less structured nature of out-of-class learning, I've made it a habit to take notes to ensure that I grasp the concepts and have a reference for future review. It should be noted that I've already taken relevant college courses on these topics. As such, these notes are best suited as reviews and might not be ideal for first-time learners.
 
 ### C++ Programming
@@ -18,7 +18,7 @@ These materials come from my independent studies outside of my classes at UW. Gi
 
 
 ### Signal Processing
-* [Signal Processing on ARM Processors](https://tonyfu97.github.io/DSP-ARM/): In progress.
+* [Signal Processing on ARM Processors](https://tonyfu97.github.io/DSP-ARM/): DFT, Filter Design, Convolution, IIR, FIR, CMSIS-DSP, Linear Systems.
 
 
 ### Embedded Systems
