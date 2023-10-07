@@ -18,7 +18,7 @@ These materials come from my independent studies outside of my classes at UW. Gi
 
 
 ### Signal Processing
-* [Biosignal Processing](https://tonyfu97.github.io/Biosignal-Processing/): Focuses on signal processing for ECG.
+* [Biosignal Processing](https://tonyfu97.github.io/Biosignal-Processing/): Focuses on signal processing for ECG and Pulse Oximetry.
 * [Signal Processing on ARM Processors](https://tonyfu97.github.io/DSP-ARM/): DFT, Filter Design, Convolution, IIR, FIR, CMSIS-DSP, Linear Systems.
 
 
