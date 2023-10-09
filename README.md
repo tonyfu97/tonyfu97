@@ -35,5 +35,6 @@ These materials come from my independent studies outside of my classes at UW. Gi
 * [OpenCV + CUDA](https://github.com/tonyfu97/OpenCV-CUDA-C-Programming): Programming CUDA C for computer vision applications (in progress). Notes are README files in the folders.
 
 
-### Computational Neuroscience
+### Other Topics
 * [LearnCompNeuro](https://github.com/tonyfu97/LearnCompNeuro): Mentor materials (study track and research tips). Currently in progress.
+* [Medical Device Software Process](https://tonyfu97.github.io/Medical-Device-Software/): FDA design controls, FDA draft guidance documents, with emphasis on IEC 62304 and ISO 14971.
