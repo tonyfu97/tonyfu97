@@ -15,6 +15,7 @@ These materials come from my independent studies outside of my classes at UW. Gi
 ### Machine Learning
 * [MLEARN 510](https://tonyfu97.github.io/MLEARN510-Notes/): *Introduction to Machine Learning*. First course in the [Machine Learning Professional Certificate Program from the University of Washington](https://www.pce.uw.edu/certificates/machine-learning).
 * [MLEARN 520](https://tonyfu97.github.io/MLEARN520-Notes/): *Advanced Machine Learning*. Second course in the [Machine Learning Professional Certificate Program from the University of Washington](https://www.pce.uw.edu/certificates/machine-learning).
+* [TinyML](https://tonyfu97.github.io/TinyML-Notes/): My notes on HarvardX's Tiny Machine Learning (TinyML) Course/Book
 
 
 ### Signal Processing
