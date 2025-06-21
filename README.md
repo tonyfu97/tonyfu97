@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Tony Fu, a research assistant at UW Bair Lab (computational visual neuroscience).
-- 👀 I investigate how convolutional neural networks "see" the world.
-- 🩻 I also teach bio-signal processing as a TA (4 classes total).
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tony-fu-3721831a3/)
+- Hi, I’m Tony Fu, a firmware engineer at ASUS.
+- How to reach me: [LinkedIn](https://www.linkedin.com/in/tony-fu-3721831a3/)
 
 
 ## My Notes
@@ -27,15 +25,9 @@ These materials come from my independent studies outside of my classes at UW. Gi
 * [Embedded C Programming](https://tonyfu97.github.io/Embedded-C-Interview-Prep/): Interview Preparation for Embedded C.
 * [ARM Cortex-M4 Programming](https://tonyfu97.github.io/ARM-Cortex-M4/): Inline Assembly, Memory Model, Exception Model, Task Scheduling, Bare-Metal Development, etc.
 * [Peripheral Driver Development](https://tonyfu97.github.io/MCU1/): GPIO, I2C, SPI, USART, etc. with STM32F4.
+* [nRF Connect SDK](https://tonyfu97.github.io/NrfConnectNotes/): Zephyr RTOS, BLE, NFC, etc. with nRF52840.
 
 
 ### Computer Vision
 * [Digital Image Processing with CImg and C++](https://tonyfu97.github.io/Digital-Image-Processing/): 40+ image processing algorithms with C++ and CImg Library.
 * [OpenCV + Qt Apps](https://github.com/tonyfu97/OpenCV-Qt-App): Implementing 7 computer vision apps. Notes are README files in the folders.
-* [VisualAlgo Library](https://tonyfu97.github.io/VisualAlgo/): Computer vision algorithms and visual neuroscience models (in progress).
-* [OpenCV + CUDA](https://github.com/tonyfu97/OpenCV-CUDA-C-Programming): Programming CUDA C for computer vision applications (in progress). Notes are README files in the folders.
-
-
-### Other Topics
-* [LearnCompNeuro](https://github.com/tonyfu97/LearnCompNeuro): Mentor materials (study track and research tips). Currently in progress.
-* [Medical Device Software Process](https://tonyfu97.github.io/Medical-Device-Software/): FDA design controls, FDA draft guidance documents, with emphasis on IEC 62304 and ISO 14971.
